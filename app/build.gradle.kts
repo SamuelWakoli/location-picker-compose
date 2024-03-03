@@ -97,7 +97,7 @@ dependencies {
     // Permissions
     implementation(libs.accompanist.permissions)
 
-    // Android Maps Compose composables for the Maps SDK for Android
+    // Maps SDK for Android
     implementation(libs.maps.compose)
     implementation(libs.places)
 
